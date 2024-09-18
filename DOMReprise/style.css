@@ -1,0 +1,10 @@
+.completed{
+    background-color: green;
+}
+
+.remove{
+    background-color: red;
+}
+.inCourse{
+    background-color: yellow;
+}
